@@ -39,13 +39,6 @@ skill:
     - title: Linux
       logo: logos/linux.svg
       description: Details coming soon, contact me if you want to know more
-experience:
-  enable: true
-  item:
-    - logo: https://res.cloudinary.com/samrobbins/image/upload/f_auto,q_auto/v1591793271/logos/logos_google_id6v9a.svg
-      title: init.g
-      company: Google
-      duration: November 2019
 hackathons:
   enable: false
   item:
@@ -76,6 +69,13 @@ leadership:
       title: Young Leader
       company: The Scout Association
       duration: September 2014 - July 2018
+experience:
+  enable: true
+  item:
+    - logo: https://res.cloudinary.com/samrobbins/image/upload/f_auto,q_auto/v1591793271/logos/logos_google_id6v9a.svg
+      title: init.g
+      company: Google
+      duration: November 2019
 portfolio:
   filter:
     - label: Web Dev

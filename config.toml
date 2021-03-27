@@ -1,5 +1,5 @@
 # Base information
-baseURL = "https://example.com"
+baseURL = "/"
 languageCode = "en-gb"
 title = "Kanazawa Hideyuki"
 # theme = "hugo-developer-portfolio"
