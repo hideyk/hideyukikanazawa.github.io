@@ -1,11 +1,11 @@
 +++
 categories = ["web-dev"]
-coders = []
+coders = ["hideyukikanazawa"]
 date = 2020-06-19T23:00:00Z
 description = "A portfolio website made with Hugo"
 github = ["https://github.com/samrobbins85/hugo-developer-portfolio", "https://github.com/samrobbins85/portfolio-website"]
-image = "https://res.cloudinary.com/samrobbins/image/upload/q_auto/v1591793276/logos/logos_hugo_h2xbne.svg"
 title = "Hugo Portfolio Website"
+image = "https://res.cloudinary.com/samrobbins/image/upload/q_auto/v1591793276/logos/logos_hugo_h2xbne.svg"
 type = "post"
 [[tech]]
 logo = "https://res.cloudinary.com/samrobbins/image/upload/v1591793276/logos/logos_hugo_h2xbne.svg"
