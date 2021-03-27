@@ -1,6 +1,6 @@
 ---
 title: "About"
-date: 2021-03-28T12:14:34+06:00
+date: 2021-03-27T12:14:34+06:00
 description: "This is meta description."
 author : "Hideyuki Kanazawa"
 authorImage : "images/about/profile.jpg"
