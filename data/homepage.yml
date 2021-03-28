@@ -72,6 +72,10 @@ leadership:
 experience:
   enable: true
   item:
+    - logo: logos/fdm-logo.svg
+      title: DevOps Consultant Track
+      company: FDM Group
+      duration: Aug 2019 - Oct 2019
     - logo: logos/dbs-bank-logo.svg
       title: Site Reliability Engineer
       company: DBS Bank
