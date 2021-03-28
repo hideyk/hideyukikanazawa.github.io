@@ -1,6 +1,6 @@
 +++
 categories = ["ansible", "python"]
-coders = ["hideyukikanazawa"]
+coders = []
 github = ["https://github.com/samrobbins85/hugo-developer-portfolio", "https://github.com/samrobbins85/portfolio-website"]
 title = "First Project"
 image = "https://res.cloudinary.com/samrobbins/image/upload/q_auto/v1591793276/logos/logos_hugo_h2xbne.svg"

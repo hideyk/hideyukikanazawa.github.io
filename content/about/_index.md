@@ -6,6 +6,10 @@ author : "Hideyuki Kanazawa"
 authorImage : "images/about/profile.jpg"
 ---
 
+My aspiration to _ led me to _
+
+
+
 Hi! I'm Hideyuki Kanazawa, Site Reliability Engineer, cloud fanatic & sports enthusiast. 
 I like doing personal projects, which you will find in the portfolio page of this website. 
 My specialties can be found on the homepage, of which most are web development or cyber security.
