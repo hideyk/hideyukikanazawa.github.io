@@ -6,7 +6,7 @@ author : "Hideyuki Kanazawa"
 authorImage : "images/about/hidey-full.png"
 ---
 
-My aspiration to _ led me to puruse my dreams
+My aspiration to _ led me to puruse my dreams.
 
 
 
